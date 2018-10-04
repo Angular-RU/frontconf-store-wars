@@ -1,6 +1,14 @@
 # Доклад StoreWars
 <img src="https://habrastorage.org/webt/mo/oi/e8/mooie8vur_vfagck6pvevfr9aic.png" />
 
+# DEMO
+
+![](https://habrastorage.org/webt/n2/rq/az/n2rqazyx8r0cofbl97wjvhtu2kw.png)
+
+[Angular](https://angular6-fiber.stackblitz.io/) - [edit - stackblitz](https://stackblitz.com/edit/angular6-fiber-next-acfwnx?file=src%2Fapp%2Fapp.component.ts)<br>
+[React](https://claudiopro.github.io/react-fiber-vs-stack-demo/fiber.html)<br>
+[Vue](https://lp6n4jw3w9.codesandbox.io/) - [edit - codesandbox](https://codesandbox.io/s/lp6n4jw3w9) <br>
+
 # Полезные ссылки
 
 <div>
