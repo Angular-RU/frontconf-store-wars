@@ -5,8 +5,8 @@
 
 ![](https://habrastorage.org/webt/n2/rq/az/n2rqazyx8r0cofbl97wjvhtu2kw.png)
 
-[Angular](https://angular6-fiber.stackblitz.io/) - [edit - stackblitz](https://stackblitz.com/edit/angular6-fiber-next-acfwnx?file=src%2Fapp%2Fapp.component.ts)<br>
 [React](https://claudiopro.github.io/react-fiber-vs-stack-demo/fiber.html)<br>
+[Angular](https://angular6-fiber.stackblitz.io/) - [edit - stackblitz](https://stackblitz.com/edit/angular6-fiber-next-acfwnx?file=src%2Fapp%2Fapp.component.ts)<br>
 [Vue](https://lp6n4jw3w9.codesandbox.io/) - [edit - codesandbox](https://codesandbox.io/s/lp6n4jw3w9) <br>
 
 # Полезные ссылки
