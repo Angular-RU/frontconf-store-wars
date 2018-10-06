@@ -1,7 +1,7 @@
 # Доклад StoreWars
 <img src="https://habrastorage.org/webt/mo/oi/e8/mooie8vur_vfagck6pvevfr9aic.png" />
 
-[Ссылка на презентацию](https://docs.google.com/presentation/d/1MkmBjgoiPo2vLBGhaS5uCVCLxpNEw6pqTjGL1AJErkQ/edit?ts=5bb66fd6#slide=id.g435a739f6e_0_194)
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1YxuIKWgCaYViu5zaTAi_QNvV50qygajxJuLvtxy_zJU/edit?usp=sharing)
 
 # DEMO
 
